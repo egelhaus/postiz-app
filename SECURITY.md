@@ -13,9 +13,9 @@ If you discover a security vulnerability in the Postiz app, please report it to 
 
 When reporting a security vulnerability, please provide as much detail as possible, including:
 
-* A clear description of the vulnerability
-* Steps to reproduce the vulnerability
-* Any relevant code or configuration files
+* A clear description of the vulnerability.
+* Steps to reproduce the vulnerability.
+* Any relevant code or configuration files.
 
 ## Supported Versions
 
